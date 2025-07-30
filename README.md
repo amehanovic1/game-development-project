@@ -2,6 +2,8 @@
 
 This game was developed as part of the **Game Development** course at the Faculty of Electrical Engineering. Players are challenged to strategically manipulate the environment and guide a unique character through floating platforms and obstacles.
 
+<img width="1031" height="594" alt="image" src="https://github.com/user-attachments/assets/259ddac2-c287-459c-96d5-30736f53c43d" />
+
 ---
 ## Technologies Used
 
